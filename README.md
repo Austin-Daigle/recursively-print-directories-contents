@@ -1,5 +1,5 @@
 # Recursively print directories contents
-This is a simple program that recursively prints out all of the contents of a directory
+This is a simple java program that recursively prints out all of the contents of a directory. Written in 2021.
 
 ## How to use:
 Download the [source code](https://github.com/Austin-Daigle/recursively-print-directories-contents/blob/main/RecurseThroughDir.java) and use it as code for another project.
